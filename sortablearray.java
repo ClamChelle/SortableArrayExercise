@@ -20,7 +20,7 @@ public class sortablearray {
     	sortablearray sortableArray = new sortablearray();
 
         // Testing sorting integers
-        int[] intArray = {5, 3, 8, 1, 2};
+        int[] intArray = {5, 3, 8, 1, 2, 4};
         sortableArray.sortIntegers(intArray);
 
         // Testing sorting strings
